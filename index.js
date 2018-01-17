@@ -28,7 +28,10 @@ function sayHiToGrandma(string) {
     
   }
   
-  else
+  else {
+    return ""
+    
+  }
   
   
   
