@@ -13,3 +13,15 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
+
+var uppercase = string.toUpperCase()
+
+var lowercase = string.toLowerCase()
+
+var mixedCase = string.mixedCase()
+
+function sayHiToGrandma(string) {
+  if uppercase.toUpperCase()
+  
+  
+}
