@@ -31,7 +31,7 @@ function sayHiToGrandma(string) {
   }
 
   
-  else if (string.toLowerCase !== string && string.toUpperCase !== string) {
+  else {
     return "I love you, too."
     
   }
