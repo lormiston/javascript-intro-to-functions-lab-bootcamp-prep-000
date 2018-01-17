@@ -21,7 +21,8 @@ var lowercase = string.toLowerCase()
 var mixedCase = string.mixedCase()
 
 function sayHiToGrandma(string) {
-  if uppercase.toUpperCase()
+  if uppercase.toUpperCase() === uppercase
+  
   
   
 }
